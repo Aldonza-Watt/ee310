@@ -10,7 +10,7 @@ There will be 3 phases for this project.
 ### Phase 1 - Development of the probes
 We are given two options for the material of the dielectric of the probe (**silicone rubber and polyvinyl chloride**). To select the most suitable material of the dielectric, we had measured certain water levels of the tank.
 
-According to online research, the maximum depth of a typical tank is **2500mm (250m)**. The diameter of the tank is 3500mm (350m).
+According to online research, the maximum depth of a typical tank is **2500mm (2.5m)**. The diameter of the tank is **3500mm (3.5m)**.
 
 | Water Level | Medium | Depth (mm) |
 | --- | --- | --- |
@@ -24,6 +24,8 @@ According to online research, the maximum depth of a typical tank is **2500mm (2
 | | Water | 2500 |
 
 We used FEMM software to observe and record the data of the charge Q and the stored energy E. We used the formulae to calculate the capacitance of the water tanks.
+
+$` E= \cfrac{1}{2}CV^2 `$ and $`Q = CV`$
 
 ### Phase 2 - Transmitter
 
