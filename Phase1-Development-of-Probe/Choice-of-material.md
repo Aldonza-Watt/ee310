@@ -9,3 +9,26 @@ From the design meeting, we were also given 2 types of material for the dielectr
 
 In order to select the most suitable dielectric material of the probe, we simulated both materials on a software FEMM, with the model of the probe given from the design meeting. We used Excel spreadsheet to record the charge and stored energy of the dielectric material at a certain water level.
 
+In order to find the suitable material for the dielectric, we used 3 parameters and applied 2 formulae to obtain the capacitance C.
+
+**<u> Parameters: </u>**
+1. Charge Q
+2. Voltage V
+3. Stored energy E
+
+**<u> Formulae applied </u>**
+$$ E = \displaystyle \frac{1}{2}CV^2 $$
+$$ Q = CV $$
+
+During the design meeting, we were also given specification of the particular water levels of the tank.
+
+| Water level | Medium | Depth (mm) |
+| --- | --- | --- |
+| 0% Water | Air | 3500
+| | Water | 0 |
+|20% Water | Air | 2500 |
+| | Water | 500 |
+| 50% Water | Air | 2250 |
+| | Water | 1250 |
+| 100% Water | Air | 1000 |
+| | Water | 2500 |
