@@ -7,7 +7,7 @@ From the design meeting, we were also given 2 types of material for the dielectr
 1. Silicone Rubber
 2. Polyvinyl chloride (PVC)
 
-In order to select the most suitable dielectric material of the probe, we simulated both materials on a software FEMM, with the model of the probe given from the design meeting. We used Excel spreadsheet to record the charge and stored energy of the dielectric material at a certain water level.
+In order to select the most suitable dielectric material of the probe, we simulated both materials on a software ***FEMM***, with the model of the probe given from the design meeting. We used Excel spreadsheet to record the charge and stored energy of the dielectric material at a certain water level.
 
 In order to find the suitable material for the dielectric, we used 3 parameters and applied 2 formulae to obtain the capacitance C.
 
