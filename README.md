@@ -15,6 +15,7 @@ Phase 3 - Receiver
 
 ## Softwares used
 1. FEMM - used in phase 1 for selecting a suitable material for the dielectric part of the probe.
+2. LTSpice - used in phase 2 for simulating circuit(s) for transmission, with detailed description in the folder.
 
 ## Contributors
 1. Yunbo Hu
