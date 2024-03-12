@@ -20,7 +20,7 @@ We also researched the pros and cons of both materials.
 
 | | Silicone Rubber | Polyvinyl Chloride |
 | --- | --- | --- |
-| Pros | <li> Heat resistance <ul><li> has a wide temperature range <li> maintains its flexibility at temperature up to 450&deg;F </li></ul></li></ul> <li> High tensile strength <ul><li> resistant to abrasion and fatigue <li> used in several applications that require **stretching** and **reshaping** <li> ideal for extrusion and molding </li></ul> <li> Low chemical reactivity <ul><li> good chemical stability </li> <li> ideal for extreme conditions </li> <li> improves the material's resistance to ozone and weather </li></ul> <li> Inertness  | <ul><li> |
+| Pros | <li> Heat resistance <ul><li> has a wide temperature range <li> maintains its flexibility at temperature up to 450&deg;F </li></ul></li></ul> <li> High tensile strength <ul><li> resistant to abrasion and fatigue <li> used in several applications that require **stretching** and **reshaping** <li> ideal for extrusion and molding </li></ul> <li> Low chemical reactivity <ul><li> good chemical stability </li> <li> ideal for extreme conditions </li> <li> improves the material's resistance to ozone and weather </li></ul> <li> Inertness  | <li> |
 | Cons | <ul><li> | <ul><li> |
 
 # Results
