@@ -20,13 +20,13 @@ We also researched the pros and cons of both materials.
 
 | | Silicone Rubber | Polyvinyl Chloride |
 | --- | --- | --- |
-| Pros | <li> Heat resistance <ul><li> has a wide temperature range <li> maintains its flexibility at temperature up to 450&deg;F </li></ul></li></ul> <li> High tensile strength <ul><li> resistant to abrasion and fatigue <li> used in several applications that require **stretching** and **reshaping** <li> ideal for extrusion and molding </li></ul> <li> Low chemical reactivity <ul><li> good chemical stability </li> <li> ideal for extreme conditions </li> <li> improves the material's resistance to ozone and weather </li></ul> <li> Inertness  | <li> |
-| Cons | <ul><li> | <ul><li> |
+| Pros | <li> Heat resistance <ul><li> has a wide temperature range <li> maintains its flexibility at temperature up to 450&deg;F </li></ul></li></ul> <li> High tensile strength <ul><li> resistant to abrasion and fatigue <li> used in several applications that require **stretching** and **reshaping** <li> ideal for extrusion and molding </li></ul> <li> Low chemical reactivity <ul><li> good chemical stability </li> <li> ideal for extreme conditions </li> <li> improves the material's resistance to ozone and weather </li></ul> <li> Inertness | <li> Versatility <ul><li> sturdy, easy to install <li>  </li></ul> <li> Electrical insulation <li> Corrosion resistance </li> |
+| Cons | <li> Cost <li> Tear strength <ul><li> has poor tear strength <ul><li> silicone-to-oxygen backbone <li> can be reinforced to have a **high tensile strength** </li></ul> | <li> |
 
 # Results
 From  our Excel spreadsheet, we have produced a graph for comparing the trends between water level and the capacitance used for detecting the frequency and water level of the tank.
 
-(photo of the graph)
+(photo of the graph from the Excel spreadsheet)
 
 ## Reference
 ### <u> Website Links </u>
