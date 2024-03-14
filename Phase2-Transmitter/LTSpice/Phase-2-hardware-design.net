@@ -3,13 +3,13 @@ XU1 U1+ N001 Vcc+ Vcc- N002 LM324
 XU2 N003 U2- Vcc+ Vcc- Vout LM324
 V1 Vcc+ 0 5
 V2 0 Vcc- 0
-R1 N001 Vout 6.8k
+R1 N001 Vout 1k
 R2 N003 N002 10k
-R3 Vout N003 72k
+R3 Vout N003 82k
 C1 N002 N001 44µ
 V3 U1+ 0 1.75
 V4 U2- 0 1.75
 .include LM324.lib
-.tran 5
+.tran 0 5 1
 .backanno
 .end
