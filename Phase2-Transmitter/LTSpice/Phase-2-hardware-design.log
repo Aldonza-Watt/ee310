@@ -1,21 +1,49 @@
 Circuit: * C:\Users\dcyle\Desktop\1UoA\2024\ELECT310\ee310-team16\Phase2-Transmitter\LTSpice\Phase-2-hardware-design.asc
 
-Direct Newton iteration for .op point succeeded.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+vernier = 0.5
+Gmin = 18.6414
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 19.4331
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 19.5276
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
 
-Date: Mon Mar 18 22:59:07 2024
-Total elapsed time: 0.109 seconds.
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Mar 18 23:55:38 2024
+Total elapsed time: 4.872 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2111
-traniter = 2108
-tranpoints = 1055
-accept = 1055
-rejected = 0
-matrix size = 12
-fillins = 5
+totiter = 625673
+traniter = 623900
+tranpoints = 181393
+accept = 124398
+rejected = 56995
+matrix size = 58
+fillins = 226
 solver = Normal
-Matrix Compiler1: 718 bytes object code size  0.3/0.2/[0.1]
-Matrix Compiler2: 1.04 KB object code size  0.2/0.2/[0.1]
+Matrix Compiler1: 16.51 KB object code size  3.8/2.3/[1.0]
+Matrix Compiler2: 8.67 KB object code size  0.9/1.0/[0.4]
 
