@@ -3,12 +3,13 @@ XU1 U1+ N001 Vcc+ Vcc- N002 TLC081
 XU2 N003 U2- Vcc+ Vcc- Vout TLC081
 V1 Vcc+ 0 5
 V2 0 Vcc- 0
-R1 N001 Vout 68k
+R1 N001 Vout 27k
 R2 N003 N002 15k
-R3 Vout N003 22k
+R3 Vout N003 27k
 C1 N002 N001 44p
 V3 U1+ 0 2.2
 V4 U2- 0 2.2
+C2 N002 N001 150p
 .include TLC081.mod
 .tran 0 10m 9.9m
 .backanno
