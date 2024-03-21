@@ -1,4 +1,4 @@
-* C:\Users\dcyle\Desktop\1UoA\2024\ELECT310\ee310-team16\Phase2-Transmitter\LTSpice\Phase-2-hardware-design.asc
+* C:\Users\aldon\Documents\ee310-team16\Phase2-Transmitter\LTSpice\Phase-2-hardware-design.asc
 XU1 U1+ N001 Vcc+ Vcc- N002 TLC081
 XU2 N003 U2- Vcc+ Vcc- Vout1 TLC081
 V1 Vcc+ 0 5
@@ -16,10 +16,10 @@ Re2 N006 0 27
 D1 Vcc+ N004 D
 Rpullup Vcc+ Vout1 100k
 .model D D
-.lib C:\Users\dcyle\Documents\LTspiceXVII\lib\cmp\standard.dio
+.lib C:\Users\aldon\AppData\Local\LTspice\lib\cmp\standard.dio
 .model NPN NPN
 .model PNP PNP
-.lib C:\Users\dcyle\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.lib C:\Users\aldon\AppData\Local\LTspice\lib\cmp\standard.bjt
 .include TLC081.mod
 .tran 0 10m 9.9m
 .backanno
