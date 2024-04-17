@@ -1,35 +1,30 @@
-Circuit: * C:\Users\aldon\Documents\ee310-team16\Phase2-Transmitter\LTSpice\Phase-2-hardware-design.asc
+Circuit: * C:\Users\dcyle\Desktop\1UoA\2024\ELECT310\ee310-team16\Phase2-Transmitter\LTSpice\Phase-2-hardware-design.asc
 
 Warning: Multiple definitions of model "2scr375p" Type: BJT
 Warning: Multiple definitions of model "bc857b" Type: BJT
 Warning: Multiple definitions of model "bc847c" Type: BJT
 Warning: Multiple definitions of model "bc847b" Type: BJT
 Warning: Multiple definitions of model "bc547b" Type: BJT
-Early termination of direct N-R iteration.
+WARNING: Node 120 is floating.
+
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Increasing initial diagonal Gmin to 100
 Gmin = 100
-Gmin = 10.7374
 vernier = 0.5
-Gmin = 2.224
+Gmin = 16.7772
 vernier = 0.25
 vernier = 0.125
 vernier = 0.0625
-Gmin = 1.96643
 vernier = 0.03125
+Gmin = 15.3118
 vernier = 0.015625
-Gmin = 1.88411
 vernier = 0.0078125
-vernier = 0.0104167
-Gmin = 1.84892
-vernier = 0.00520833
-vernier = 0.00260417
-vernier = 0.00130208
-Gmin = 1.84531
-vernier = 0.000651042
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 15.2671
+vernier = 0.000976563
 vernier = 0.000488281
-Gmin = 1.84268
 Gmin = 0
 Gmin stepping failed
 
@@ -41,21 +36,21 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Thu Mar 21 14:46:13 2024
-Total elapsed time: 1.689 seconds.
+Date: Thu Apr 18 11:33:27 2024
+Total elapsed time: 3.165 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 139451
-traniter = 136983
-tranpoints = 32581
-accept = 23873
-rejected = 8708
-matrix size = 67
-fillins = 261
+totiter = 113617
+traniter = 111757
+tranpoints = 27549
+accept = 20169
+rejected = 7380
+matrix size = 103
+fillins = 324
 solver = Normal
-Avg thread counts: 1.0/1.1/1.1/1.0
-Matrix Compiler1:    1422 opcodes  4.7/[3.0]/3.5
-Matrix Compiler2: off  [0.6]/2.0/1.1
+Thread vector: 15.0/13.2[2] 3.7/5.5[1] 6.8/5.7[2] 0.6/6.0[1]  2592/500
+Matrix Compiler1: 27.30 KB object code size  5.9/2.8/[1.5]
+Matrix Compiler2: 14.64 KB object code size  2.4/3.8/[0.8]
 
