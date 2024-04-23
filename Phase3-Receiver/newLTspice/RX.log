@@ -3,24 +3,26 @@ Circuit: * C:\Users\dcyle\Desktop\1UoA\2024\ELECT310\ee310-team16\Phase3-Receive
 WARNING: Node NC_01 is floating.
 
 WARNING: Less than two connections to node U2-.  This node is used by V4.
-WARNING: Less than two connections to node NC_01.  This node is used by I2.
+WARNING: Less than two connections to node NC_01.  This node is used by I2-0%FULL.
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
-Gmin = 10
+Increasing initial diagonal Gmin to 100
+Gmin = 100
 vernier = 0.5
+Gmin = 18.6414
 vernier = 0.25
-Gmin = 2.09715
 vernier = 0.125
 vernier = 0.0625
 vernier = 0.03125
+Gmin = 19.4331
 vernier = 0.015625
 vernier = 0.0078125
 vernier = 0.00390625
 vernier = 0.00195313
+Gmin = 19.5276
 vernier = 0.000976563
 vernier = 0.000488281
-Gmin = 0
 Gmin = 0
 Gmin stepping failed
 
@@ -32,21 +34,21 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Tue Apr 23 14:26:56 2024
-Total elapsed time: 14.556 seconds.
+Date: Tue Apr 23 14:46:25 2024
+Total elapsed time: 14.162 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 194854
-traniter = 193148
-tranpoints = 60690
-accept = 47482
-rejected = 13208
+totiter = 196426
+traniter = 194452
+tranpoints = 60817
+accept = 47612
+rejected = 13205
 matrix size = 187
-fillins = 1198
+fillins = 1218
 solver = Normal
-Thread vector: 47.6/26.5[4] 14.2/9.3[4] 16.2/10.4[4] 1.3/4.5[1]  2592/500
-Matrix Compiler1: 83.56 KB object code size  26.6/30.0/[6.3]
-Matrix Compiler2: 35.86 KB object code size  15.1/13.5/[1.8]
+Thread vector: 32.8/25.8[4] 13.5/9.4[4] 16.3/10.6[4] 1.4/5.1[1]  2592/500
+Matrix Compiler1: 98.15 KB object code size  33.4/19.4/[8.0]
+Matrix Compiler2: 36.91 KB object code size  12.2/10.4/[3.2]
 
